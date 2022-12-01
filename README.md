@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcdanang
 - 👀 I’m interested in back end web development using node.js
-- 🌱 I’m currently learning node.js and mongodb
+- 🌱 I’m currently learning node.js, python, and golang
 - 💞️ I’m looking to collaborate on simple microservices project
 - 📫 You can reach me on linkedin.com/in/mdanangp/
 
