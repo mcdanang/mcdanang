@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @mcdanang
-- 👀 I’m interested in web development using React and Node.js
-- 🌱 I’m currently learning Typescript and Next.js
-- 💞️ I’m looking to collaborate on full stack web development project
-- 📫 You can reach me on linkedin.com/in/mdanangp/
+👋 Hi, I’m Danang
 
-<!---
-mcdanang/mcdanang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer | Full Stack Web Developer
+📍 Jakarta, Indonesia
+🌐 mcdanang.com
+
+📫 mdanangpriambodo@gmail.com
+
+I’m a Software Engineer with 4+ years of experience building scalable, production-ready web applications — from AI-powered SaaS products to enterprise and regulated financial platforms.
+I’ve worked across the full stack, collaborating with international, cross-functional teams, and I enjoy turning complex requirements into clean, reliable, and user-focused solutions.
+
+🚀 What I’m working on
+
+Wrotels — an AI-powered IELTS Writing simulation platform
+
+Large-scale enterprise analytics systems in highly regulated environments
+
+🧠 Tech Stack
+
+Languages: JavaScript, TypeScript, PHP, Go, Java
+Frontend: React, Next.js, Tailwind, ShadCN
+Backend: Node.js, Nest.js, Laravel, REST & GraphQL
+Database: PostgreSQL, MongoDB, Redis
+DevOps & Tools: Docker, Nginx, GCP, GitHub, CI/CD
+
+🏗 Selected Projects
+
+Wrotels – AI-powered IELTS Writing Simulation → https://www.wrotels.com
+
+McInvest – Crowdfunding & Investment Platform → https://mcinvest.app
+
+🤝 Let’s connect
+
+LinkedIn: https://linkedin.com/in/mdanangp
+
+GitHub: https://github.com/mcdanang
